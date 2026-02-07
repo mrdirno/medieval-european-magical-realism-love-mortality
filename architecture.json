@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-european-magical-realism-love-mortality",
+  "title": "The Granular Breath of Stones",
+  "tagline": "In a world where walls breathe and shadows are swallowed, a butcher's boy must learn the language of stone to confront a love bound by the weight of time and the chains of memory.",
+  "target_words": 75253,
+  "actual_words": 75253,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Perception and Hidden Realities",
+    "The Weight of History and Memory",
+    "The Intimacy of Decay",
+    "Love as a Mortal Architecture"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Hollow in the Stone",
+      "words": 6841
+    },
+    {
+      "ch": 2,
+      "title": "The Temple of Unlistening",
+      "words": 6841
+    },
+    {
+      "ch": 3,
+      "title": "A Persistent Stain of Smoke",
+      "words": 6841
+    },
+    {
+      "ch": 4,
+      "title": "The House That Was a Mouth",
+      "words": 6841
+    },
+    {
+      "ch": 5,
+      "title": "The Hook, Not the Key",
+      "words": 6841
+    },
+    {
+      "ch": 6,
+      "title": "A Story Shaped Like a Shield",
+      "words": 6841
+    },
+    {
+      "ch": 7,
+      "title": "The Vault Was a Throat",
+      "words": 6841
+    },
+    {
+      "ch": 8,
+      "title": "The Weight of Knowing",
+      "words": 6841
+    },
+    {
+      "ch": 9,
+      "title": "A Debt That Breeds",
+      "words": 6841
+    },
+    {
+      "ch": 10,
+      "title": "A Granular World",
+      "words": 6841
+    },
+    {
+      "ch": 11,
+      "title": "The Argument of Chains",
+      "words": 6841
+    }
+  ]
+}
